@@ -38,7 +38,3 @@ src="https://img.shields.io/github/followers/Saad-Naseer?logo=github&style=for-t
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/Saad-Naseer/MediaAI" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Saad-Naseer&repo=MediaAI&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Saad-Naseer/machine-learning-tools" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Saad-Naseer&repo=machine-learning-tools&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/Saad-Naseer/ROS2-Tutorial" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Saad-Naseer&repo=ROS2-Tutorial&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
