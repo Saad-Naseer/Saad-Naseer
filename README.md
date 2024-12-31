@@ -46,9 +46,7 @@ src="https://img.shields.io/github/followers/Saad-Naseer?logo=github&style=for-t
     <img src="https://img.youtube.com/vi/6sDzJZIZdtM/hqdefault.jpg" alt="Watch the video" width="300"/>
 </a>
 
-### Badges
-
-<b>My GitHub Stats</b>
+### My Github Stats
 
 <a href="http://www.github.com/Saad-Naseer"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Saad-Naseer&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
