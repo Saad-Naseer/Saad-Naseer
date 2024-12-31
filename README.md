@@ -40,14 +40,7 @@ src="https://img.shields.io/github/followers/Saad-Naseer?logo=github&style=for-t
 
 ### 🎬 Latest YouTube Videos
 
-<!-- BEGIN YOUTUBE-CARDS -->
-[![Surprisingly good BROWSER-BASED code editor](https://ytcards.demolab.com/?id=Bc2cHZRkMv8&title=Surprisingly+good+BROWSER-BASED+code+editor&lang=en&timestamp=1733863281&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=767 "Surprisingly good BROWSER-BASED code editor")](https://www.youtube.com/watch?v=Bc2cHZRkMv8)
-[![PerplexityAI Desktop App Review: Is It WORTH It?](https://ytcards.demolab.com/?id=Dcz70PQgMmU&title=PerplexityAI+Desktop+App+Review%3A+Is+It+WORTH+It%3F&lang=en&timestamp=1730923868&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=820 "PerplexityAI Desktop App Review: Is It WORTH It?")](https://www.youtube.com/watch?v=Dcz70PQgMmU)
-[![Perplexity AI's Biggest Update: Spaces vs Collections (2024) | Programmer's View](https://ytcards.demolab.com/?id=oOhv-H2pC10&title=Perplexity+AI%27s+Biggest+Update%3A+Spaces+vs+Collections+%282024%29+%7C+Programmer%27s+View&lang=en&timestamp=1729801826&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=450 "Perplexity AI's Biggest Update: Spaces vs Collections (2024) | Programmer's View")](https://www.youtube.com/watch?v=oOhv-H2pC10)
-[![CYBER SECURITY Secrets Hidden in 22 Books Bundle for Less Than 25$!](https://ytcards.demolab.com/?id=YSdjYK-P4Yo&title=CYBER+SECURITY+Secrets+Hidden+in+22+Books+Bundle+for+Less+Than+25%24%21&lang=en&timestamp=1728339290&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=152 "CYBER SECURITY Secrets Hidden in 22 Books Bundle for Less Than 25$!")](https://www.youtube.com/watch?v=YSdjYK-P4Yo)
-[![Boost Your CYBERSECURITY 🔐 Skills with This 22 eBooks Bundle](https://ytcards.demolab.com/?id=VNWYIaUvLjw&title=Boost+Your+CYBERSECURITY+%F0%9F%94%90+Skills+with+This+22+eBooks+Bundle&lang=en&timestamp=1727983697&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=27 "Boost Your CYBERSECURITY 🔐 Skills with This 22 eBooks Bundle")](https://www.youtube.com/watch?v=VNWYIaUvLjw)
-[![Software engineer's TOP 3 FEATURES of PerplexityAI (upcoming!)](https://ytcards.demolab.com/?id=yIiPjYnaTPQ&title=Software+engineer%27s+TOP+3+FEATURES+of+PerplexityAI+%28upcoming%21%29&lang=en&timestamp=1726922226&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=44 "Software engineer's TOP 3 FEATURES of PerplexityAI (upcoming!)")](https://www.youtube.com/watch?v=yIiPjYnaTPQ)
-<!-- END YOUTUBE-CARDS -->
+https://youtu.be/92ipYGqWWhQ
 
 ### Badges
 
