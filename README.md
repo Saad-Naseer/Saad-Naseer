@@ -42,7 +42,9 @@ src="https://img.shields.io/github/followers/Saad-Naseer?logo=github&style=for-t
 <a href="https://youtu.be/92ipYGqWWhQ">
     <img src="https://img.youtube.com/vi/92ipYGqWWhQ/hqdefault.jpg" alt="Watch the video" width="300"/>
 </a>
-
+<a href="https://youtu.be/6sDzJZIZdtM">
+    <img src="https://img.youtube.com/vi/6sDzJZIZdtM/hqdefault.jpg" alt="Watch the video" width="300"/>
+</a>
 ### Badges
 
 <b>My GitHub Stats</b>
