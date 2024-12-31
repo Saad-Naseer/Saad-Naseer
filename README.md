@@ -39,7 +39,7 @@ src="https://img.shields.io/github/followers/Saad-Naseer?logo=github&style=for-t
 </p>
 
 ### 🎬 Latest YouTube Videos
-[![Watch the video](https://img.youtube.com/vi/abcd1234xyz/hqdefault.jpg)](https://www.youtube.com/watch?v=abcd1234xyz)
+[![Watch the video](https://img.youtube.com/vi/92ipYGqWWhQ/hqdefault.jpg)](https://youtu.be/92ipYGqWWhQ)
 
 ### Badges
 
