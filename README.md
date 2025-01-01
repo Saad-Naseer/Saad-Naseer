@@ -9,7 +9,7 @@ I have been working in robotics since 2013, developing expertise in hardware and
 * 🌍  I'm based in köln
 * 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/saad-naseer-2989b41a6/)
 * ✉️  You can contact me at [saadrocky46@gmail.com](mailto:saadrocky46@gmail.com)
-* 🚀  I'm currently working on [MediaAI](http://https://github.com/Saad-Naseer/MediaAI)
+* 🚀  I'm currently working on [MediaAI](https://github.com/Saad-Naseer/MediaAI)
 * 🤝  I'm open to collaborating on Deep learning, Machine Learning projects
 
 <a href="https://www.github.com/Saad-Naseer" target="_blank" rel="noreferrer"><img
