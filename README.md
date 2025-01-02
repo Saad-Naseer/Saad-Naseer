@@ -29,10 +29,11 @@ src="https://img.shields.io/github/followers/Saad-Naseer?logo=github&style=for-t
 
 <p>
   <a href="https://www.youtube.com/@roboticsworkshop?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCEXZS-7Rnph2i57sLBlHoSQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCEXZS-7Rnph2i57sLBlHoSQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
 
+    <a href="https://www.youtube.com/@roboticsworkshop?sub_confirmation=1">
 <img alt="YouTube Channel Subscribers" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCEXZS-7Rnph2i57sLBlHoSQ?label=Subscribe&labelColor=CE4630&logo=video&logoColor=white&style=for-the-badge">
-
+</a>
   <a href="https://www.youtube.com/@roboticsworkshop">
     <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCEXZS-7Rnph2i57sLBlHoSQ?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a>
   <a href="https://github.com/Saad-Naseer?tab=followers">
