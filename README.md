@@ -35,7 +35,7 @@ src="https://img.shields.io/github/followers/saad-naseer?logo=github&style=for-t
 
 ### 🎬 Latest Youtube Videos
 <a href="https://www.youtube.com/@roboticsworkshop?sub_confirmation=1">
- <img https://i9.ytimg.com/vi_webp/92ipYGqWWhQ/mqdefault.webp?v=677545a1&sqp=CJTbjrwG&rs=AOn4CLB040-KeQGx3Mdvl-1xqVuj9TFMvw/>
+ <img src="https://i9.ytimg.com/vi_webp/92ipYGqWWhQ/mqdefault.webp?v=677545a1&sqp=CJTbjrwG&rs=AOn4CLB040-KeQGx3Mdvl-1xqVuj9TFMvw"/>
 </a>
 ### Badges
 
