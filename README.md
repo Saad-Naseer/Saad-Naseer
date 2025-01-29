@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-I have been working in robotics since 2013, developing expertise in hardware and software for robotic systems. Currently, I am focused on building a Media AI platform designed to empower creators to elevate their content effortlessly to the next level.
+I have been working in robotics since 2013, developing expertise in hardware and software for robotic systems.  Currently, I am focused on building a Media AI platform that enables users to control devices such as cameras, gimbals, sliders, pedestals, switchers, lights, and teleprompters—both autonomously and manually, in any combination. This platform is designed to empower creators by seamlessly enhancing their content production.
 
 * 🌍  I'm based in köln
 * 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/saad-naseer-2989b41a6/)
 * ✉️  You can contact me at [saadrocky46@gmail.com](mailto:saadrocky46@gmail.com)
-* 🚀  I'm currently working on [MediaAI](https://github.com/Saad-Naseer/MediaAI)
-* 🤝  I'm open to collaborating on Deep learning, Machine Learning projects
+* 🚀  I'm currently working on [APOS (Autonomous Production Operating System)](https://github.com/Saad-Naseer/MediaAI)
+* 🤝  I'm open to collaborating on Deep learning, Machine Learning, Robotics projects
 
 <a href="https://www.github.com/Saad-Naseer" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Saad-Naseer?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
