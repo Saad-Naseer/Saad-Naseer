@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-I have been working in robotics since 2013, developing expertise in hardware and software for robotic systems.  Currently, I am focused on building a Media AI platform that enables users to control devices such as cameras, gimbals, sliders, pedestals, switchers, lights, and teleprompters—both autonomously and manually, in any combination. This platform is designed to empower creators by seamlessly enhancing their content production.
+I have been working in robotics since 2013, developing expertise in hardware and software for robotic systems.  Currently, I am focused on building a Media AI platform that enables users to control devices such as cameras, gimbals, sliders, pedestals, switchers, lights, and teleprompters - both autonomously and manually, in any combination. This platform is designed to empower creators by seamlessly enhancing their content production.
 
 * 🌍  I'm based in köln
 * 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/saad-naseer-2989b41a6/)
